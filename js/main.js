@@ -5,7 +5,7 @@ var osmAttrib='Map: <a href="http://www.mapquest.com/" target="_blank">MapQuest<
 var mapquest = L.tileLayer(mapquestUrl, {minZoom: 14, maxZoom: 18, 
             attribution: osmAttrib, subdomains: ["otile1", "otile2", "otile3", "otile4"]})
 
-var map = L.map('map', { zoomControl:false, maxBounds: [[7,-73.9],[7.1,-73.8]]});
+var map = L.map('map', { zoomControl:true, maxBounds: [[7,-73.9],[7.1,-73.8]]});
 map.setView([7.061, -73.859], 15);
 map.attributionControl.setPrefix('<a href="http://www.makina-corpus.com/" target="_blank">Makina Corpus</a>');
 
