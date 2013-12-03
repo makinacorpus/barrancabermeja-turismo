@@ -29,8 +29,8 @@ $("input[name='basemapLayers']").change(function () {
 // Create markers
 
 var attractionsMarker = L.icon({
-    iconUrl: '/img/marker-attractions.png',
-    shadowUrl: '/img/marker-shadow.png',
+    iconUrl: 'img/marker-attractions.png',
+    shadowUrl: 'img/marker-shadow.png',
     iconSize: [35, 45], 
     iconAnchor:   [17, 42],
     popupAnchor: [1, -32],
@@ -38,8 +38,8 @@ var attractionsMarker = L.icon({
     shadowSize: [36, 16]
 });
 var hotelsMarker = L.icon({
-    iconUrl: '/img/marker-hotels.png',
-    shadowUrl: '/img/marker-shadow.png',
+    iconUrl: 'img/marker-hotels.png',
+    shadowUrl: 'img/marker-shadow.png',
     iconSize: [35, 45], 
     iconAnchor:   [17, 42],
     popupAnchor: [1, -32],
@@ -47,8 +47,8 @@ var hotelsMarker = L.icon({
     shadowSize: [36, 16]
 });
 var transportMarker = L.icon({
-    iconUrl: '/img/marker-transport.png',
-    shadowUrl: '/img/marker-shadow.png',
+    iconUrl: 'img/marker-transport.png',
+    shadowUrl: 'img/marker-shadow.png',
     iconSize: [35, 45], 
     iconAnchor:   [17, 42],
     popupAnchor: [1, -32],
