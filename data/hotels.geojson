@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": 4, "name": "Hotel Millenium" }, "geometry": { "type": "Point", "coordinates": [ -73.858283001324253, 7.077884147368898 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "Hotel Barrancabermeja Plaza" }, "geometry": { "type": "Point", "coordinates": [ -73.85948515684008, 7.061391720485974 ] } },
+{ "type": "Feature", "properties": { "id": 2, "name": "Hotel Vizcaya" }, "geometry": { "type": "Point", "coordinates": [ -73.860236109629483, 7.062024248945011 ] } },
+{ "type": "Feature", "properties": { "id": 1, "name": "Hotel Pipatón" }, "geometry": { "type": "Point", "coordinates": [ -73.873980438833868, 7.058244721979968 ] } }
+]
+}

@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "id": 6, "name": "Estadio de Fútbol Daniel Villa Zapata" }, "geometry": { "type": "Point", "coordinates": [ -73.864675565825706, 7.072961844280475 ] } },
+{ "type": "Feature", "properties": { "id": 5, "name": "Parque de la Vida" }, "geometry": { "type": "Point", "coordinates": [ -73.853240889738316, 7.059885547752542 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "Refinería Ecopetrol" }, "geometry": { "type": "Point", "coordinates": [ -73.879189779402409, 7.074389693328664 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "Parroquia Sagrado Corazón de Jesús" }, "geometry": { "type": "Point", "coordinates": [ -73.871976846307561, 7.060574442334801 ] } },
+{ "type": "Feature", "properties": { "id": 1, "name": "Alcadía de Barrancabermeja" }, "geometry": { "type": "Point", "coordinates": [ -73.8725826569612, 7.06068717044151 ] } },
+{ "type": "Feature", "properties": { "id": 4, "name": "Cristo Petrolero" }, "geometry": { "type": "Point", "coordinates": [ -73.869345356280832, 7.062710009019782 ] } }
+]
+}
